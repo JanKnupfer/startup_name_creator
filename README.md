@@ -1,16 +1,9 @@
-# startup_namer
+# Flutter Tutorial
 
-A new Flutter project.
+This Repository is my attempt on the Flutter Tutorial to build a startup name generator app.
 
-## Getting Started
+The tutorials I followed are the following:
 
-This project is a starting point for a Flutter application.
+Part 1: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Part 2: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
